@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9CPLR6VW8M.com.kungfuchain.gfl",
+                "paths": [ "/gfapp/*", "/qq_conn/1112206408/*"]
+            }
+        ]
+    }
+}
