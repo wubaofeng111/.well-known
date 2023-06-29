@@ -5,6 +5,10 @@
             {
                 "appID": "9CPLR6VW8M.com.kungfuchain.gfl",
                 "paths": [ "/gfapp/*", "/qq_conn/1112206408/*","/hongbao/*"]
+            },
+            {
+                "appID": "9CPLR6VW8M.com.wbf.main",
+                "paths": [ "/aa/*"]
             }
         ]
     }
