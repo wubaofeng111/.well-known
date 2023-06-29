@@ -9,6 +9,10 @@
             {
                 "appID": "9CPLR6VW8M.com.wbf.main",
                 "paths": [ "/aa/*"]
+            },
+            {
+                "appID": "9CPLR6VW8M.com.wbf.testunivers",
+                "paths": [ "/test/*"]
             }
         ]
     }
