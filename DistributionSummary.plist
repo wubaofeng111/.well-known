@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioPlayer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>31F3C24C00954D540D09FEC98E037B32F9FD9A3E</string>
+				<key>dateExpires</key>
+				<string>2023/11/28</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9CPLR6VW8M.com.gfl.audioplayer</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9CPLR6VW8M</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>AudioPlayer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4d837b45-7661-43bb-b8e4-9c78ae098fda</string>
+				<key>dateExpires</key>
+				<string>2024/5/9</string>
+				<key>name</key>
+				<string>common_profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9CPLR6VW8M</string>
+				<key>name</key>
+				<string>Kungfu chain (Shanghai) Sports Culture Development Co., Ltd</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
